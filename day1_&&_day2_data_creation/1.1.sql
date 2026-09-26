@@ -1,5 +1,5 @@
-create database student_db;
-use student_db; -- select this db.... " -- " mentions comments
+create database product_db;
+use product_db; -- select this db.... " -- " mentions comments
 
 create table student (
     student_id int primary key auto_increment,
